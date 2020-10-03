@@ -29,3 +29,5 @@
 3. To run other commands as root temporarily, use the command\
   - `sudo` *`command`*
   - Replace the *command* above with your command. Eg: `sudo apt-get update`
+## To list files
+  - `ls -ll`
